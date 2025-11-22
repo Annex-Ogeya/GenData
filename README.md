@@ -43,7 +43,10 @@ The goal is to build a Tableau dashboard that can support data-driven decisions 
     -  ↓
 - Dashboard & Insights
 
+  ## ERD DIAGRAM
+  
 ## Dashboard Overview
+
 ### Dashboard Components
  - Customer Segmentation (High vs Low Activity)
  - Purchases vs Payments Scatter
