@@ -37,7 +37,7 @@ The goal is to build a Tableau dashboard that can support data-driven decisions 
      - ↓
 - Data Cleaning & Normalization
      - ↓
-- SQL View Creation (vw_customer_full)
+- Loading Data into BiqQuery
     -  ↓
 - Tableau Connection
     -  ↓
@@ -74,5 +74,5 @@ The goal is to build a Tableau dashboard that can support data-driven decisions 
 - Engage Low-Activity Customers,e.g educating on card benefits.
 
 ## Dashboard Preview
-<img width="1908" height="917" alt="image" src="https://github.com/user-attachments/assets/6fb4ceb1-4120-4afe-8821-7b8e73b038fc" />
 
+<img width="1488" height="795" alt="image" src="https://github.com/user-attachments/assets/d3bfefd2-387a-4c02-9ae6-ae4232bc7b9a" />
