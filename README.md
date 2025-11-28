@@ -76,3 +76,5 @@ The goal is to build a Tableau dashboard that can support data-driven decisions 
 ## Dashboard Preview
 
 <img width="1488" height="795" alt="image" src="https://github.com/user-attachments/assets/d3bfefd2-387a-4c02-9ae6-ae4232bc7b9a" />
+
+<https://public.tableau.com/app/profile/annex.ogeya/viz/CustomerCreditCardAnalysis_17640672604130/Dashboard1?publish=yes/>
